@@ -32,7 +32,6 @@ Users can also **search any city** in the world and instantly get updated weathe
 | Bootstrap | Responsive layout |
 | JavaScript | App logic & API handling |
 | WeatherAPI | Live weather data |
-| Geolocation API | Detect user current location |
 | Font Awesome | Icons |
 | SweetAlert2 | Pop-up alerts |
 
